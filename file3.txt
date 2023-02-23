@@ -1,4 +1,0 @@
-This project is straightforward and doesn’t allow complex bonuses. However, we trust
-your creativity. If you completed the mandatory part, give a try to this bonus part.
-Here are the bonus part requirements:
-• Develop get_next_line() using only one static variable.
