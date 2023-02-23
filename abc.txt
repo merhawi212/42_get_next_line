@@ -1,0 +1,10 @@
+0
+
+
+Are you using any other libraries in your project?
+
+I'm getting compile errors using both Cocoa and Carbon using apple's template projects, however I notice that sleep functions (using the definition) are a feature in both the SDL and SFML cross platform libraries, and perhaps for many others.
+
+Have you tried your code example on a template project using only with apples libraries?
+
+It could be that Sleep() is a function in something else you are linking to.
