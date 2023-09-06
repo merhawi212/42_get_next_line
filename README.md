@@ -1,5 +1,5 @@
 # 42_get_next_line
-get_next_line is a function that reads and returns one line at a time from a file or input stream. It maintains a saved buffer between calls, allowing you to read lines sequentially. This function is commonly used in C programming for line-by-line text processing.
+get_next_line is a function that reads and returns one line at a time from a file or input stream. It maintains a saved buffer between calls, allowing you to read lines sequentially.
 
 ## A. Mandatory Part
 
