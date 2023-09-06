@@ -9,7 +9,10 @@ get_next_line is a function that reads and returns one line at a time from a fil
 
 # USAGE
 
-git clone ` `
+` 
+git clone https://github.com/MerKifle/42_get_next_line.git 
+
+`
 
 to compile
 
